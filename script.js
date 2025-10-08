@@ -67,9 +67,8 @@ function populateHeader(personalInfo) {
                     <p class="title">${personalInfo.title}</p>
                     <p class="summary">${personalInfo.summary}</p>
                     <div class="contact-info">
-                        <div class="contact-item">
                             <i class="fas fa-envelope"></i>
-                            <span>${personalInfo.email}</span>
+                            <span><a class="social-link" href="mailto:${personalInfo.email}">${personalInfo.email}</a></span>
                         </div>
                         <div class="contact-item">
                             <i class="fas fa-phone"></i>
@@ -81,11 +80,11 @@ function populateHeader(personalInfo) {
                         </div>
                         <div class="contact-item">
                             <i class="fab fa-linkedin"></i>
-                            <span>${personalInfo.linkedin}</span>
+                            <span><a class="social-link" href="${personalInfo.linkedin}" target="_blank">${personalInfo.linkedin}</a></span>
                         </div>
                         <div class="contact-item">
                             <i class="fab fa-github"></i>
-                            <span>${personalInfo.github}</span>
+                            <span><a class="social-link" href="${personalInfo.github}" target="_blank">${personalInfo.github}</a></span>
                         </div>
                     </div>
                 </div>
