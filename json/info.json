@@ -1,0 +1,105 @@
+{
+  "personalInfo": {
+    "name": "Adil ur Rehman",
+    "title": "Undergraduate Computer Scientist & Full-Stack Developer",
+    "summary": "Innovative Computer Scientist studing and developing experience in designing and implementing cutting-edge solutions. Specialized in Programming, Web Development, and Graphic Designing.",
+    "email": "adilurrehmanofficial@gmail.com",
+    "phone": "+92 325 8510774",
+    "location": "Gujranwala, Punjab, Pakistan",
+    "linkedin": "linkedin.com/in/johndoe",
+    "github": "github.com/akkakar128",
+    "portfolio": "https://johndoe-portfolio.example.com",
+    "profileImage": "img/img.webp"
+  },
+  "skills": {
+    "programmingLanguages": ["JavaScript/TypeScript", "C#", "C", "C++"],
+    "frontend": ["HTML", "CSS", "Bootstraps", "SASS"],
+    "backend": ["Node.js"],
+    "databases": ["Oracle", "MySQL"],
+    "cloudDevOps": ["Git"],
+    "aiMl": ["Not Yet"]
+  },
+  "experience": [
+    {
+      "period": "2024 - 2025",
+      "position": "Social Worker",
+      "company": "BRSP-BCC, Zhob, Pakistan",
+      "description": "Spread Awareness about Malaria in rural areas, it precautions, helped illeterate folks to prevent malaria",
+      "achievements": [
+        "Awared Over hundreds of peoples in rural areas",
+        "Prevented the Epidemic of Malaria in rural Areas over 70% during our project",
+        "Confidently delivered the session in all rural and urban areas"
+      ]
+    }
+  ],
+  "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "school": "University of Engineering and Technology, Lahore, Pakistan",
+        "period": "2024 - 2028",
+        "details": "Specialization in Artificial Intelligence and Programming. Team leader in almost all Annual Projects. Graphic Designing Head in multiple socities. GPA: 3.5/4.0"
+      },
+    {
+      "degree": "Faculty of Science in Pre-Engineering",
+      "school": "Punjab College, Blue Area Islamabad, Pakistan",
+      "period": "2021 - 2023",
+      "details": " Minor in Mathematics. Started graphic designing journey. Marks: 1011/1100"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Art Craft Centrum",
+      "description": "Developed a form app providing both artists and customers login, that manages craft marketing, showing arts, track records of selling, login details, also app is controlled by admin, provides intelligent interface for improvements, easy access for arts, and best tracking records.",
+      "technologies": [".NEt", "C#", "Oracle", "Form App", "Git"],
+      "links": {
+        "demo": "null",
+        "github": "#"
+      }
+    },
+    {
+      "name": "Professional CV Generator",
+      "description": "Built a highly available distributed system for generating and printing traditional and professional multi templete and multi theme CV generator with fault tolerance and horizontal scaling.",
+      "technologies": ["HTML", "CSS", "JavaScript", "JSON", "Node.js"],
+      "links": {
+        "demo": null,
+        "github": "#"
+      }
+    },
+    {
+      "name": "Real-Time Audio player",
+      "description": "Created a web-based collaborative audio player with real-time audio and video playing, load albums through json files, and load multi albums, fetching songs from albums.",
+      "technologies": ["HTML", "SCSS", "SASS", "JavaScript", "JSON", "Node.js"],
+      "links": {
+        "demo": "#",
+        "github": "#"
+      }
+    }
+  ],
+  "languages": [
+    {"language": "Pashto", "level": "Native"},
+    {"language": "Urdu", "level": "Professional"},
+    {"language": "English", "level": "Intermediate"}
+  ],
+  "certifications": [
+    {
+      "name": "CISCO HTML Essentials",
+      "issuer": "CISCO Netacad"
+    },
+    {
+      "name": "CISCO CSS Essentials",
+      "issuer": "CISCO Netacad"
+    },
+    {
+      "name": "CISCO JS Essentials 1, 2, 3",
+      "issuer": "CISCO Netacad"
+    },
+    {
+      "name": "BCC on Malaria ",
+      "issuer": "BRSP"
+    },
+    {
+      "name": "Office Tool Automation",
+      "issuer": "Modern Info Tech"
+    }
+  ]
+}
