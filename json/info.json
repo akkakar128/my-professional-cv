@@ -6,9 +6,9 @@
     "email": "adilurrehmanofficial@gmail.com",
     "phone": "+92 325 8510774",
     "location": "Gujranwala, Punjab, Pakistan",
-    "linkedin": "linkedin.com/in/johndoe",
-    "github": "github.com/akkakar128",
-    "portfolio": "https://johndoe-portfolio.example.com",
+    "linkedin": "linkedin.com/in/adilurrehmanofficial",
+    "github": "github.com/adilurrehmanofficial",
+    "portfolio": "https://adilurrehmanofficial-portfolio.example.com",
     "profileImage": "img/img.webp"
   },
   "skills": {
@@ -50,7 +50,7 @@
     {
       "name": "Art Craft Centrum",
       "description": "Developed a form app providing both artists and customers login, that manages craft marketing, showing arts, track records of selling, login details, also app is controlled by admin, provides intelligent interface for improvements, easy access for arts, and best tracking records.",
-      "technologies": [".NEt", "C#", "Oracle", "Form App", "Git"],
+      "technologies": [".Net", "C#", "Oracle", "Form App", "Git"],
       "links": {
         "demo": "null",
         "github": "#"
